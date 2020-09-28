@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>雾草，被你发现了</title>
+  <title>雾草</title>
   
-  
+  <subtitle>喜欢就坚持吧</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-27T03:23:03.952Z</updated>
+  <updated>2020-09-28T08:56:51.807Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我是四年级学生森下下士</title>
-    <link href="http://example.com/2020/09/27/test-my-site/"/>
-    <id>http://example.com/2020/09/27/test-my-site/</id>
-    <published>2020-09-27T02:50:26.000Z</published>
-    <updated>2020-09-27T03:23:03.952Z</updated>
+    <title>About me</title>
+    <link href="http://example.com/2020/09/28/about/"/>
+    <id>http://example.com/2020/09/28/about/</id>
+    <published>2020-09-28T08:41:26.000Z</published>
+    <updated>2020-09-28T08:56:51.807Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;哇，很有精神！&quot;&gt;&lt;a href=&quot;#哇，很有精神！&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;奇妙世界的探索者&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;在北京生活&lt;/li&gt;
+&lt;li&gt;有一个PhD学位&lt;/li&gt;
+&lt;li&gt;懂一点点物理&lt;/li&gt;
+&lt;li&gt;和一些皮毛的技术&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
         
       
     

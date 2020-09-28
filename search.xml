@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我是四年级学生森下下士</title>
-    <url>/2020/09/27/test-my-site/</url>
-    <content><![CDATA[<h2 id="哇，很有精神！"><a href="#哇，很有精神！" class="headerlink" title="哇，很有精神！"></a>哇，很有精神！</h2>]]></content>
+    <title>About me</title>
+    <url>/2020/09/28/about/</url>
+    <content><![CDATA[<blockquote>
+<p>奇妙世界的探索者</p>
+</blockquote>
+<ul>
+<li>在北京生活</li>
+<li>有一个PhD学位</li>
+<li>懂一点点物理</li>
+<li>和一些皮毛的技术</li>
+</ul>
+]]></content>
   </entry>
 </search>
