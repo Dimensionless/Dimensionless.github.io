@@ -3,11 +3,11 @@
   <title>雾草</title>
   
   <subtitle>喜欢就坚持吧</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wucao.me/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2020-10-01T06:19:50.000Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://wucao.me/"/>
+  <updated>2021-09-02T16:30:21.861Z</updated>
+  <id>https://wucao.me/</id>
   
   <author>
     <name>Xiang</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>About me</title>
-    <link href="http://example.com/2020/09/28/about/"/>
-    <id>http://example.com/2020/09/28/about/</id>
+    <link href="https://wucao.me/2020/09/about/"/>
+    <id>https://wucao.me/2020/09/about/</id>
     <published>2020-09-28T08:41:26.000Z</published>
-    <updated>2020-10-01T06:19:50.000Z</updated>
+    <updated>2021-09-02T16:30:21.861Z</updated>
     
     
       
@@ -37,7 +37,7 @@
 &lt;li&gt;懂一点点物理&lt;/li&gt;
 &lt;li&gt;和一些皮毛的技术&lt;/li&gt;
 &lt;/ul&gt;
-</summary>
+&lt;h2 id=&quot;&quot;&gt;&lt;a</summary>
         
       
     
