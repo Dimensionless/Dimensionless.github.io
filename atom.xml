@@ -6,7 +6,7 @@
   <link href="https://wucao.me/atom.xml" rel="self"/>
   
   <link href="https://wucao.me/"/>
-  <updated>2021-09-02T16:30:21.861Z</updated>
+  <updated>2021-09-09T09:39:27.275Z</updated>
   <id>https://wucao.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wucao.me/2020/09/about/"/>
     <id>https://wucao.me/2020/09/about/</id>
     <published>2020-09-28T08:41:26.000Z</published>
-    <updated>2021-09-02T16:30:21.861Z</updated>
+    <updated>2021-09-09T09:39:27.275Z</updated>
     
     
       
@@ -31,18 +31,16 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;奇妙世界的探索者&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;在北京生活&lt;/li&gt;
-&lt;li&gt;有一个PhD学位&lt;/li&gt;
-&lt;li&gt;懂一点点物理&lt;/li&gt;
-&lt;li&gt;和一些皮毛的技术&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a</summary>
+&lt;h2 id=&quot;关于我的标签&quot;&gt;&lt;a href=&quot;#关于我的标签&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="人物" scheme="https://wucao.me/categories/%E4%BA%BA%E7%89%A9/"/>
+    
+    
+    <category term="猪宝" scheme="https://wucao.me/tags/%E7%8C%AA%E5%AE%9D/"/>
     
   </entry>
   
